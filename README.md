@@ -1,5 +1,3 @@
-# sofiya12456.github.io
-HT
 <!DOCTYPE html>
 <html lang="ru">
 <head>
