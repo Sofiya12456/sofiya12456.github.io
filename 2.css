@@ -30,7 +30,7 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Стили для секций */
+
 .section {
     display: none;
     padding: 20px;
@@ -41,7 +41,7 @@ nav ul li a:hover {
     display: block;
 }
 
-/* Общие стили */
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -49,7 +49,7 @@ body {
     padding-top: 60px;
 }
 
-/* Анимация */
+
 .animate {
     animation: fadein 2s;
 }
