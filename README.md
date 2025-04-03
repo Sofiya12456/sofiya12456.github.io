@@ -65,7 +65,7 @@
     <div id="map" class="section">
         <h2>Карта</h2>
         <iframe 
-            src="[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233667.8223921103!2d-118.69193052620744!3d34.02016129990307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b0c4d5e8d14d%3A0x70beefdb1a3ad6f1!2sLos%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2sru!4v1615675649304!5m2!1sen!2sru](https://maps.app.goo.gl/hfCqixPkPALQNExZ7)" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233667.8223921103!2d-118.69193052620744!3d34.02016129990307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b0c4d5e8d14d%3A0x70beefdb1a3ad6f1!2sLos%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2sru!4v1615675649304!5m2!1sen!2sru" 
             width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
         </iframe>
     </div>
