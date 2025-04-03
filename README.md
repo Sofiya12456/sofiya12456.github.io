@@ -46,26 +46,21 @@
     <div id="audio" class="section">
         <h2>Аудио</h2>
         <audio controls>
-            <source src="audio.MP3" type="audio/mpeg">
+            <source src="audio.mp3" type="audio/mpeg">
             Ваш браузер не поддерживает аудио.
         </audio>
     </div>
 
     <div id="video" class="section">
         <h2>Видео</h2>
-        <video controls width="600">
-            <source src="video/sample.mp4" type="video/mp4">
-            Ваш браузер не поддерживает видео.
-        </video>
-        <h3>Видео с YouTube</h3>
-        <iframe width="600" height="315" src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://youtu.be/xAwB9lQnxAY?si=FBYQlMAHVi9NSn3-)" 
+        <iframe width="600" height="315" src="https://www.youtube.com/embed/xAwB9lQnxAY" 
         frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div id="map" class="section">
         <h2>Карта</h2>
         <iframe 
-            src="[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233667.8223921103!2d-118.69193052620744!3d34.02016129990307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b0c4d5e8d14d%3A0x70beefdb1a3ad6f1!2sLos%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2sru!4v1615675649304!5m2!1sen!2sru](https://maps.app.goo.gl/hfCqixPkPALQNExZ7)" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d771.5805364515563!2d76.90948096967547!3d43.235194075155166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836ed0664b1c3f%3A0x974c48f4f2f35112!2z0JrRg9C30L3QtdGB0LrQsNGPINGD0LsuLCAz0JAsINCQ0LvQtdC60YHRgiAxMDAwMDA!5e0!3m2!1sru!2skz!4v1712145600000" 
             width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
         </iframe>
     </div>
