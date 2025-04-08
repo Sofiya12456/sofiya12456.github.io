@@ -63,10 +63,7 @@
  <div id="map" class="section">
         <h2>Карта</h2>
      <div>
-        <iframe 
-            src="[https://g.co/kgs/TFkoBDP]" 
-            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
-        </iframe>
+        <source src="[https://g.co/kgs/TFkoBDP]">
      </div>
     </div>
 
