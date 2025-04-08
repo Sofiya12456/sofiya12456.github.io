@@ -49,10 +49,10 @@
         </audio>
     </div>
 
-    <div id="video" class="section">
+   <div id="video" class="section">
         <h2>Видео</h2>
         <video controls>
-            <source src="[https://www.youtube.com/live/jfKfPfyJRdk?si=8RBaEITgMb3NdGwU]">
+            <source src="movie.mp4" type="video/mp4">
             Ваш браузер не поддерживает видео элемент.
         </video>
     </div>
