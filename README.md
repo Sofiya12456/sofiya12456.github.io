@@ -52,12 +52,9 @@
     <div id="video" class="section">
         <h2>Видео</h2>
         <video controls>
-            <source src="movie.mp4" type="video/mp4">
+            <source src="[https://www.youtube.com/live/jfKfPfyJRdk?si=8RBaEITgMb3NdGwU]">
             Ваш браузер не поддерживает видео элемент.
         </video>
-        <div>
-            <https://www.youtube.com/watch?v=DsCEcVwhQxg>
-        </div>
     </div>
 
  <div id="map" class="section">
