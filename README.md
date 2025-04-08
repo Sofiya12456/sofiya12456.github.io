@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Одностраничный сайт</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="2.css">
 </head>
 <body>
 
@@ -75,6 +75,6 @@
         <p class="animate">Пример текста с анимацией.</p>
     </div>
 
-    <script src="script.js"></script>
+    <script src="3.js"></script>
 </body>
 </html>
