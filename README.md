@@ -1,10 +1,10 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Одностраничный сайт</title>
-    <link rel="stylesheet" href="2.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -38,7 +38,8 @@
 
     <div id="image" class="section">
         <h2>Изображение</h2>
-        <p>Здесь будет размещено какое-то изображение.</p>
+    <image controls>
+        <source src="image.jpg" type="image/jpg">
     </div>
     <div id="audio" class="section">
         <h2>Аудио</h2>
@@ -62,7 +63,7 @@
     <div id="map" class="section">
         <h2>Карта</h2>
         <div>
-            <!-- Здесь должен быть вставлен код из Google Maps -->
+            <https://g.co/kgs/TFkoBDP>
         </div>
     </div>
 
@@ -71,6 +72,6 @@
         <p class="animate">Пример текста с анимацией.</p>
     </div>
 
-    <script src="3.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
