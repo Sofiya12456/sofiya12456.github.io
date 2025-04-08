@@ -38,8 +38,8 @@
 
     <div id="image" class="section">
         <h2>Изображение</h2>
-    <image controls>
-        <source src="image.jpg" type="image/jpg">
+        <p>Здесь будет размещено изображение.</p>
+        <img src="image.jpg" alt="Пример изображения">
     </div>
     <div id="audio" class="section">
         <h2>Аудио</h2>
@@ -56,15 +56,16 @@
             Ваш браузер не поддерживает видео элемент.
         </video>
         <div>
-            <!-- https://www.youtube.com/watch?v=DsCEcVwhQxg -->
+            <https://www.youtube.com/watch?v=DsCEcVwhQxg>
         </div>
     </div>
 
-    <div id="map" class="section">
+ <div id="map" class="section">
         <h2>Карта</h2>
-        <div>
-            <https://g.co/kgs/TFkoBDP>
-        </div>
+        <iframe 
+            src="[https://g.co/kgs/TFkoBDP]" 
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
+        </iframe>
     </div>
 
     <div id="animation" class="section">
