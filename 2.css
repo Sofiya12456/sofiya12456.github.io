@@ -3,8 +3,8 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: ##4fd199;
-    color: #800000;
+    background-color: #4fd199;
+    color: #4fd199;
     padding: 10px 0;
     text-align: center;
 }
@@ -21,7 +21,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #FFDEAD;
+    color: #194230;
     text-decoration: none;
 }
 
