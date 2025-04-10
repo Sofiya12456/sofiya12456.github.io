@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Мой одностраничный сайт</title>
-    <link rel="stylesheet" href="style.css"> <!-- Подключение стилей -->
+    <link rel="stylesheet" href="2.css"> <!-- Подключение стилей -->
 </head>
 <body>
 
@@ -76,6 +76,6 @@
     <p class="animate">Этот текст плавно появляется при загрузке.</p>
 </div>
 
-    <script src="script.js"></script> <!-- Подключение JavaScript -->
+    <script src="3.js"></script> <!-- Подключение JavaScript -->
 </body>
 </html>
