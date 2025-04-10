@@ -59,7 +59,7 @@
         <h2>Видео</h2>
         <!-- Локальное видео -->
         <video controls>
-            <source src="video/sample.mp4" type="video/mp4">
+            <source src="movie.mp4" type="video/mp4">
         </video>
     </div>
 
